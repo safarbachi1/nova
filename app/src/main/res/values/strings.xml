@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nova VPN</string>
+    <string name="vpn_notification_channel_name">اتصال Nova VPN</string>
+    <string name="vpn_notification_channel_desc">نمایش وضعیت زنده تونل و آمار ترافیک</string>
+    <string name="vpn_notification_connected">متصل به %1$s (%2$s)</string>
+    <string name="vpn_notification_connecting">در حال اتصال به %1$s…</string>
+    <string name="vpn_notification_reconnecting">در حال اتصال مجدد…</string>
+    <string name="vpn_notification_disconnect">قطع اتصال</string>
+</resources>
